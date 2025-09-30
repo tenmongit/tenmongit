@@ -15,11 +15,8 @@
   <!-- Programming -->
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   
   <!-- Web -->
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
   
   <!-- Databases -->
@@ -31,7 +28,6 @@
   
   <!-- New additions from AI Tutor project -->
   <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
 </p>
 
@@ -45,13 +41,7 @@
 ✔️ REST API integration + automated Excel reporting  
 ✔️ Unit testing with pytest + CI/CD pipeline  
 
-#### 2. [AI Language Learning Tutor](https://github.com/tenmongit/AI-tutor-for-language-learning-with-personalized-assignments)
-**PyTorch | Transformers | Docker**  
-🧠 NLP-powered personalized learning system  
-🤖 Automated assignment generation using LLMs  
-📚 Adaptive difficulty scaling with ML models  
-
-#### 3. [Laptops Market Analysis](https://github.com/tenmongit/laptop-price-analysis)
+#### 2. [Laptops Market Analysis](https://github.com/tenmongit/laptop-price-analysis)
 **Python | Pandas | Seaborn**  
 🔍 Price trend analysis for electronics market  
 
@@ -69,11 +59,7 @@
 ---
 
 ### 💡 Core Competencies
-- **AI/ML**: PyTorch | Transformers | NLP  
-- **Data Analysis**: Pandas | Power BI | Statistical Modeling  
-- **Process Automation**: Selenium | Cron | API Integration  
-- **Web Development**: React/Next.js | Flask | REST Architecture  
-- **DevOps**: Docker | CI/CD Pipelines  
+- **Data Analysis**: Pandas | Power BI | Statistical Modeling 
 
 ---
 
