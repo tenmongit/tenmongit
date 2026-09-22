@@ -1,4 +1,4 @@
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/40db595c-76cc-40d7-ba0c-439b188e49ce" /># Hi, I'm Madiyar 👋
+Hi, I'm Madiyar 👋
 
 Junior DevOps / DevSecOps engineer from Astana, Kazakhstan.
 BSc in Information Security, MSc student in Computer Science and Engineering at Astana IT University.
