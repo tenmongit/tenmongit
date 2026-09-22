@@ -1,4 +1,4 @@
-Hi, I'm Madiyar 👋
+# Hi, I'm Madiyar 👋
 
 Junior DevOps / DevSecOps engineer from Astana, Kazakhstan.
 BSc in Information Security, MSc student in Computer Science and Engineering at Astana IT University.
@@ -15,6 +15,6 @@ BSc in Information Security, MSc student in Computer Science and Engineering at 
 Ansible · Kubernetes (k8s) · Proxmox VE · GitLab CI
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/madiyar-mustafin-aa8158339/)
-[Telegram](@cloudseason)
-[Email](tenmonwork@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/madiyar-mustafin-aa8158339/)
+- [Telegram](https://t.me/cloudseason)
+- [Email](mailto:tenmonwork@outlook.com)
